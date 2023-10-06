@@ -1,0 +1,12 @@
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/bin/Debug/net7.0/Balada.Infra.deps.json
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/bin/Debug/net7.0/Balada.Infra.dll
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/bin/Debug/net7.0/Balada.Infra.pdb
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/Balada.Infra.csproj.AssemblyReference.cache
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/Balada.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/Balada.Infra.AssemblyInfoInputs.cache
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/Balada.Infra.AssemblyInfo.cs
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/Balada.Infra.csproj.CoreCompileInputs.cache
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/Balada.Infra.dll
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/refint/Balada.Infra.dll
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/Balada.Infra.pdb
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Infra/obj/Debug/net7.0/ref/Balada.Infra.dll
