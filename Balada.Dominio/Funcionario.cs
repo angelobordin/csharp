@@ -1,12 +1,12 @@
 ﻿namespace Balada.Dominio;
 public class Funcionario
 {
-    public string Name { get; set; } 
-    public DateTime DateOfBirth { get; set; }
-    // Salário anual. Mensal = Salario / 13.3
-    public decimal Salary { get; set; }
-    public string Role { get; set; }
-    public string Departament { get; set; }
+    public string Name { get; private set; } 
+    public DateTime DateOfBirth { get; private set; }
+    public decimal Salary { get; private set; }
+    public decimal Wage { get => Salary * 13.3m; }
+    public string Role { get; private set; }
+    public string Departament { get; private set; }
     public int Age { get
         {
             DateTime now = DateTime.Now;
@@ -14,7 +14,7 @@ public class Funcionario
             if (now.DayOfYear < DateOfBirth.DayOfYear) age--;
 
             return age;
-        } 
+        }
     }
 
     public Funcionario(string name, DateTime dateOfBirth, string role,  decimal salary, string departament)
