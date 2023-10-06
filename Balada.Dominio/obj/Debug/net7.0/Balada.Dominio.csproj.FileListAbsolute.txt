@@ -1,0 +1,12 @@
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/bin/Debug/net7.0/Balada.Dominio.deps.json
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/bin/Debug/net7.0/Balada.Dominio.dll
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/bin/Debug/net7.0/Balada.Dominio.pdb
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/Balada.Dominio.csproj.AssemblyReference.cache
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/Balada.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/Balada.Dominio.AssemblyInfoInputs.cache
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/Balada.Dominio.AssemblyInfo.cs
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/Balada.Dominio.csproj.CoreCompileInputs.cache
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/Balada.Dominio.dll
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/refint/Balada.Dominio.dll
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/Balada.Dominio.pdb
+/home/angelobordin/Desktop/estudos/programacao/csharp/invasao_csharp/Balada.Dominio/obj/Debug/net7.0/ref/Balada.Dominio.dll
